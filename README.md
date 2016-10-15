@@ -1,2 +1,4 @@
 # Privacy-Policy
-The privacy policies of the apps of JendorskiLabs
+The privacy policies of the apps of jendorskiLabs
+
+
